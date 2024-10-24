@@ -71,7 +71,6 @@ Actively looking for a **PFE internship** opportunity in software development, a
 ## 📫 How to reach me
 - **Email:** [izmouh.fatiha03@gmail.com](mailto:izmouh.fatiha03@gmail.com)
 - **LinkedIn:** [Fatiha Izmouh](https://www.linkedin.com/in/fatiha-izmouh)
-- **GitHub:** [fatiha-izmouh](https://github.com/fatiha-izmouh)
 
 ---
 
